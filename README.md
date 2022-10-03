@@ -3,7 +3,7 @@ MERN stack application using Google book search API.
 
 ### Github : https://github.com/fumixer/fumixer-book-search-engine-
 
-### Deployed link: https://github.com/fumixer/fumixer-book-search-engine-
+### Deployed link: 
 
 ### Screenshot
 ![Homepage](./client/src/image/Book-search.png)
